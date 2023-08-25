@@ -19,29 +19,119 @@
 		"color": {
 			"palette": [
 				{
-					"slug": "base",
-					"color": "#1e1e1e",
-					"name": "Base"
+					"slug": "neutral-black",
+					"color": "#263238",
+					"name": "Neutral/Black"
 				},
 				{
-					"slug": "contrast",
-					"color": "#f0f0f0",
-					"name": "Contrast"
+					"slug": "neutral-d-grey",
+					"color": "#4D4D4D",
+					"name": "Neutral/D_Grey"
 				},
 				{
-					"slug": "primary",
-					"color": "#0073aa",
-					"name": "Primary"
+					"slug": "neutral-grey",
+					"color": "#717171",
+					"name": "Neutral/Grey"
 				},
 				{
-					"slug": "secondary",
-					"color": "#00a0d2",
-					"name": "Secondary"
+					"slug": "neutral-l-grey",
+					"color": "#89939E",
+					"name": "Neutral/L_Grey"
 				},
 				{
-					"slug": "transparent",
-					"color": "transparent",
-					"name": "Transparent"
+					"slug": "neutral-grey-blue",
+					"color": "#ABBED1",
+					"name": "Neutral/Grey_Blue"
+				},
+				{
+					"slug": "neutral-silver",
+					"color": "#F5F7FA",
+					"name": "Neutral/Silver"
+				},
+				{
+					"slug": "neutral-white",
+					"color": "#FFFFFF",
+					"name": "Neutral/White"
+				},
+				{
+					"slug": "brand-primary",
+					"color": "#4CAF4F",
+					"name": "Brand/Primary"
+				},
+				{
+					"slug": "brand-secondary",
+					"color": "#263238",
+					"name": "Brand/Secondary"
+				},
+				{
+					"slug": "brand-info",
+					"color": "#2194F3",
+					"name": "Brand/Info"
+				},
+				{
+					"slug": "shade-s1",
+					"color": "#43A046",
+					"name": "Shade/S1"
+				},
+				{
+					"slug": "shade-s2",
+					"color": "#388E3B",
+					"name": "Shade/S2"
+				},
+				{
+					"slug": "shade-s3",
+					"color": "#237D31",
+					"name": "Shade/S3"
+				},
+				{
+					"slug": "shade-s4",
+					"color": "#1B5E1F",
+					"name": "Shade/S4"
+				},
+				{
+					"slug": "shade-s5",
+					"color": "#103E13",
+					"name": "Shade/S5"
+				},
+				{
+					"slug": "tint-t1",
+					"color": "#66BB69",
+					"name": "Tint/T1"
+				},
+				{
+					"slug": "tint-t2",
+					"color": "#81C784",
+					"name": "Tint/T2"
+				},
+				{
+					"slug": "tint-t3",
+					"color": "#A5D6A7",
+					"name": "Tint/T3"
+				},
+				{
+					"slug": "tint-t4",
+					"color": "#C8E6C9",
+					"name": "Tint/T4"
+				},
+				{
+					"slug": "tint-t5",
+					"color": "#E8F5E9",
+					"name": "Tint/T5"
+				},
+				{
+					"slug": "action-warning",
+					"color": "#FBC02D",
+					"name": "Action/Warning"
+				},
+				{
+					"slug": "action-error",
+					"color": "#E53835",
+					"name": "Action/Error"
+				},
+				{
+					"slug": "action-success",
+					"color": "#2E7D31",
+					"name": "Action/Success"
 				}
 			],
 			"gradients": [
